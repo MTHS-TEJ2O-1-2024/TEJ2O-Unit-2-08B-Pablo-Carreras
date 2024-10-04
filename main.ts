@@ -2,7 +2,7 @@
  *
  * Created by: Pablo
  * Created on: Sep 2024
- * This program tunrs n and off and switches colours 
+ * This program tunrs on and off and switches colours 
 */
 
 basic.clearScreen()
