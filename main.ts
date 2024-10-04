@@ -18,7 +18,9 @@ input.onButtonPressed(Button.A, function () {
     pins.digitalWritePin(DigitalPin.P14, 0)
     pins.digitalWritePin(DigitalPin.P15, 0)
     basic.pause(1000)
+    pins.digitalWritePin(DigitalPin.P15, 0)
     pins.digitalWritePin(DigitalPin.P13, 0)
+    pins.digitalWritePin(DigitalPin.P14, 0)
     basic.pause(1000)
 
     // green
@@ -26,6 +28,8 @@ input.onButtonPressed(Button.A, function () {
     pins.digitalWritePin(DigitalPin.P13, 0)
     pins.digitalWritePin(DigitalPin.P15, 0)
     basic.pause(1000)
+    pins.digitalWritePin(DigitalPin.P15, 0)
+    pins.digitalWritePin(DigitalPin.P13, 0)
     pins.digitalWritePin(DigitalPin.P14, 0)
     basic.pause(1000)
 
@@ -35,6 +39,8 @@ input.onButtonPressed(Button.A, function () {
     pins.digitalWritePin(DigitalPin.P14, 0)
     basic.pause(1000)
     pins.digitalWritePin(DigitalPin.P15, 0)
+    pins.digitalWritePin(DigitalPin.P13, 0)
+    pins.digitalWritePin(DigitalPin.P14, 0)
     basic.pause(1000)
 
     //white
